@@ -2,8 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me www.linkedin.com/in/
-amilawijesinghe99
+
 
 
 
