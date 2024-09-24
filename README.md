@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmilaWijesinghe99
+- 👋 Hi, I’m @AmilaWijesinghe
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects
